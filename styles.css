@@ -209,3 +209,7 @@ hr {
     display: block;
   }
 }
+.blog-hero{
+  width: auto;
+  margin: auto;
+}
