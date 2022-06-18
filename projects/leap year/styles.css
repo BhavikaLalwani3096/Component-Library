@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+:root {
+    --blue-color: #06b6d4;
+}
+
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: var(--blue-color);
+    text-align: center;
+    padding: 1rem;
+}
+
+.hero-heading {
+    padding: 1rem;
+    font-family: "playfair display", sans-serif;
+}
+
+textarea {
+    width: 50%;
+    height: 5vh;
+    display: block;
+    margin: auto;
+    padding: 1rem;
+}
+
+.q1 {
+    text-align: center;
+    padding: 1rem;
+}
+
+button {
+    background-color: var(--blue-color);
+    border: none;
+    margin: 1rem 0rem;
+    padding: 1rem 2rem;
+    font-family: "playfair display", cursive;
+    font-size: large;
+    margin: auto;
+}
+
+#output {
+    border: 1px solid black;
+    width: 50%;
+    height: 5vh;
+    display: block;
+    margin: auto;
+    padding: 1rem;
+}
+
+.button-align {
+    padding: 1rem;
+    text-align: center;
+}
+
+.space {
+    padding: 1rem;
+}
+
+footer {
+    background-color: var(--blue-color);
+    text-align: center;
+    padding: 1rem;
+}
+
+.footer-text {
+    margin: auto;
+    padding: 1rem;
+}
